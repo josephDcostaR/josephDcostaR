@@ -1,16 +1,22 @@
 ### 
 
-<h1 align="left">Olá Bem-Vimdo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Joseph</h1>
+<h1 align="left">Olá Bem-Vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Joseph</h1>
 <p align="left"> 
   
 
-- 🔥 Sou um analista de Sistemas em Formação ...
+- 🔥 Sou um analista de Sistemas em Formação
 - 🌱 Eu atualmente estudos varios assuntos diferentes como:
      <ol>
-       <li >- Programação pra web com HTML/CSS/JS</li>
-       <li >- Orientação a objetos com java </li>
+       <li >- Programação para web usando a triade HTML/CSS/JS </li>
+       <li >- Programação para backend usando o Java e o Csharp </li>
+       <li >- Programação voltada para Inteligêcias Artificiais com Python </li>
     </ol>
-- ⚡ fato curioso: Adoro jogos retro...
+- ⚡ fato curioso: gosto jogos retro, mangas, mangas e tecnologias inovadoras
+- 📫 Onde me achar:
+      <ol>
+       <li >- Linkedin: https://www.linkedin.com/in/josephcostaribeiro/ </li>
+       <li >- Instagram: https://www.instagram.com/jsepha113/ </li>
+    </ol>
 
 <!--
 **josephcyan/josephcyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
