@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="left">Olá Bem-Vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Joseph</h1>
+<h1 align="left">Olá Bem-Vindo 👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Joseph</h1>
 <p align="left"> 
   
 
