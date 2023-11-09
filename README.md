@@ -7,11 +7,11 @@
 - 🔥 Sou um analista de Sistemas em Formação
 - 🌱 Eu atualmente estudos varios assuntos diferentes como:
      <ol>
-       <li >- Programação para web usando a triade HTML/CSS/JS </li>
-       <li >- Programação para backend usando o Java e o Csharp </li>
-       <li >- Programação voltada para Inteligêcias Artificiais com Python </li>
+       <li >- Programação para web usando a triade HTML/CSS/JS. </li>
+       <li >- Programação para backend usando o Java e o Csharp. </li>
+       <li >- Programação voltada para Inteligêcias Artificiais com Python. </li>
     </ol>
-- ⚡ fato curioso: gosto jogos retro, mangas, mangas e tecnologias inovadoras
+- ⚡ fato curioso: gosto jogos retro, mangas, livros e tecnologias inovadoras.
 - 📫 Onde me achar:
       <ol>
        <li >- Linkedin: https://www.linkedin.com/in/josephcostaribeiro/ </li>
