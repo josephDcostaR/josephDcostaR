@@ -4,7 +4,7 @@
 <p align="left"> 
   
 
-- 🔥 Sou um analista de Sistemas em Formação
+- 🔥 Sou um Analista de sistemas em formação.
 - 🌱 Eu atualmente estudos varios assuntos diferentes como:
      <ol>
        <li >- Programação para web usando a triade HTML/CSS/JS. </li>
