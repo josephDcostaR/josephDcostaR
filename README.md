@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá, mundo! me chamo Joseph, sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas</h1>
+<h1 align="left"> Olá, mundo! me chamo Joseph, sou um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas</h1>
 <p align="left"> 
   
 
