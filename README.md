@@ -15,6 +15,8 @@
        <li >- Programação voltada para Inteligêcias Artificiais com Python. </li>
     </ol>
 - ⚡ fato curioso: gosto jogos retro, mangas, livros e tecnologias inovadoras.
+  <p align="left"> 
+  
 - 📫 Onde me achar:
       <ol>
        <li >- Linkedin: https://www.linkedin.com/in/josephcostaribeiro/ </li>
