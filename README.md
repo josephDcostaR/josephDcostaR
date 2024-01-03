@@ -10,9 +10,10 @@
 - 🔥 Sou um Analista de sistemas em formação.
 - 🌱 Eu atualmente estudos varios assuntos diferentes como:
      <ol>
-       <li >- Programação para web usando a triade HTML/CSS/JS. </li>
-       <li >- Programação para backend usando o Java e o Csharp. </li>
-       <li >- Programação voltada para Inteligêcias Artificiais com Python. </li>
+       <li> Programação para web usando a triade HTML/CSS/JS. </li>
+       <li> Programação para backend usando o Java e o Csharp. </li>
+       <li> Programação voltada para Inteligêcias Artificiais com Python. </li>
+       <li>Liguagem de progamação c# e ambiente dotnet </li>
     </ol>
 - ⚡ fato curioso: gosto jogos retro, mangas, livros e tecnologias inovadoras.
 - 📫 Onde me achar:
@@ -22,7 +23,7 @@
   [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jojojosephdacostaribeiro@gmail.com)
     
 
-## 🛠 &nbsp;Tech Stack
+## minha habilidades de hardskill
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
