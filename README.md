@@ -8,10 +8,9 @@
   <strong>- 🌱 Possuo habilidades nas seguintes áreas:</strong>
 </p>
 <ul>
-  <li>Desenvolvimento Web utilizando HTML, CSS, JavaScript, Node.js e TypeScript.</li>
-  <li>Desenvolvimento backend com Java, C#, Python.</li>
+  <li>Desenvolvimento Web utilizando HTML, CSS, JavaScript,  TypeScript, Node.js, Flutter, Angular.</li>
+  <li>Desenvolvimento backend com Java, Spring, C#, Python.</li>
   <li>Desenvolvimento de Inteligências Artificiais e Análise de Dados com Python.</li>
-  <li>Utilização dos frameworks Spring, React, Angular e Flutter.</li>
   <li>Desenvolvimento de Jogos com Unity.</li>
 </ul>
 <p align="left">
