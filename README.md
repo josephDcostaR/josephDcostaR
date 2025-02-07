@@ -3,8 +3,7 @@
   Olá, mundo! Me chamo Joseph, sou formado em Sistemas da Informação.
 </h1>
 <p align="left">
-  <strong>- 🔥 Atualmente, sou um Analista de Sistemas em formação.</strong><br>
-  <strong>- 👩‍💻 Tenho 22 anos</strong><br>
+  <strong>- 🔥 Bacharel em Sistemas de Informação.</strong><br>
   <strong>- 🌱 Possuo habilidades nas seguintes áreas:</strong>
 </p>
 <ul>
