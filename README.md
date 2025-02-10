@@ -9,8 +9,8 @@
 <ul>
   <li>Desenvolvimento Web utilizando HTML, CSS, JavaScript,  TypeScript, Node.js, Flutter, Angular.</li>
   <li>Desenvolvimento backend com Java, Spring, C#, Python.</li>
-  <li>Desenvolvimento de Inteligências Artificiais e Análise de Dados com Python.</li>
-  <li>Desenvolvimento de Jogos com Unity.</li>
+  <li>Banco de dados: MySql, Postgress</li>
+
 </ul>
 <p align="left">
   <strong>- ⚡ Curiosidade:</strong> Sou fã de jogos retrô, mangás, livros e tecnologias inovadoras.<br>
