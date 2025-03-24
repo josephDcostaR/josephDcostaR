@@ -1,5 +1,8 @@
 # Olá mundo, eu sou Joseph  
 
+🌐 **Selecione seu Idioma:**  
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)  
+
 <img src="https://komarev.com/ghpvc/?username=josephDcostaR&color=5271FF&style=for-the-badge&label=Você+é+o+visitante+nº" width=120px align="right">
 
 ### Sobre  
