@@ -28,22 +28,21 @@ Hello my name is Joseh and i'm a software developer who likes to develope some s
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-Habilidades Técnicas
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp" alt="C#">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring" alt="Spring">
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular" alt="Angular">
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity" alt="Unity">
-</p>
+
+## Languages and tools:
+<div align="cente">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git &theme=dark" />
+  </a>
+</div>
+<div align="cente">
+
+ <a href="https://skillicons.dev">  
+   <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
+  </a>
+</div>
+
+
 ⚙️  Estatísticas do GitHub
 <p align="left">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=josephDcostaR&show_icons=true&theme=vision-friendly-dark" alt="Estatísticas do GitHub do Joseph">
