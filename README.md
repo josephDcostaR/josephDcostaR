@@ -1,7 +1,8 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
-  Olá, mundo! Me chamo Joseph, sou formado em Sistemas da Informação.
-</h1>
+
+# Hi wold I'm Joseph
+
+Hello my name is Joseh and i'm a software developer who likes to develope some solutions in my passtime
+
 <p align="left">
   <strong>- 🔥 Bacharel em Sistemas de Informação.</strong><br>
   <strong>- 🌱 Possuo habilidades nas seguintes áreas:</strong>
