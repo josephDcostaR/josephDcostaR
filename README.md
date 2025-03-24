@@ -32,15 +32,21 @@ Hello my name is Joseh and i'm a software developer who likes to develope some s
 ## Languages and tools:
 <div align="cente">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,nodejs,php,dart,mysql,postgresql,sqlite,firebase,git &theme=dark" />
   </a>
 </div>
 <div align="cente">
-
  <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
+   <img src="https://skillicons.dev/icons?i=figma,eclipse,idea,vscode,wordpress,discord,c,atom,bootstrap,net,spring,postman &theme=dark" />
   </a>
 </div>
+
+<div align="cente>
+  <a href="https://skillicons.dev">  
+   <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,linux,windows,notion,raspberrypi &theme=dark" />
+  </a>
+</div>
+
 
 
 ⚙️  Estatísticas do GitHub
