@@ -37,7 +37,7 @@ Feel free to reach out using the links below! ⤵️
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,,mysql,postgresql,sqlite,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,mysql,postgresql,sqlite,git&theme=dark" />
   </a>
 </div>
 <div align="center">
