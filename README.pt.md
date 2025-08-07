@@ -1,21 +1,21 @@
-# Olá mundo, eu sou Joseph  
+# 🌍 Olá, eu sou o Joseph!
 
-🌐 **Selecione seu Idioma:**  
-[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)  
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
-<img src="https://komarev.com/ghpvc/?username=josephDcostaR&color=5271FF&style=for-the-badge&label=Você+é+o+visitante+nº" width=120px align="right">
+<img src="https://komarev.com/ghpvc/?username=josephDcostaR&color=5271FF&style=for-the-badge&label=you're+visitor+nº" width=120px align="right">
 
-### Sobre  
-Sou do Brasil e sou um desenvolvedor de software apaixonado por criar soluções no meu tempo livre.  
-Comecei a aprender desenvolvimento de software em outubro de 2020, quando decidi seguir carreira na tecnologia.
+## 🚀 Sobre mim  
+Desenvolvedor de software brasileiro, apaixonado por tecnologia e desenvolvimento de jogos.  
+Comecei minha jornada em **outubro de 2020** e atualmente curso **Sistemas de Informação**.
 
-<p align="left">
-  <strong>- Sou bacharel em Sistemas de Informação pelo Centro Universitário Santa Terezinha - CEST.</strong><br>
-  <strong>- Gosto de desenvolver jogos e estudar suas mecânicas.</strong><br>
-</p>
+### 🎯 Objetivos  
+- 👨‍🎓 Sistemas de Informação na **CEST**  
+- 🎮 Entusiasta da mecânica de jogos  
+- 👨‍💻 Buscando oportunidades para crescer na área
 
-Meu objetivo atual é conseguir uma posição como desenvolvedor para ganhar experiência, aprendendo novos fluxos de trabalho e tecnologias.  
-Sinta-se à vontade para entrar em contato comigo pelos links abaixo. ⤵️
+Vamos nos conectar! ⤵️
+
+---
 
 ## 💬 Sinta-se à vontade para se conectar comigo! Vamos construir algo incrível juntos.
 <div align="left">
