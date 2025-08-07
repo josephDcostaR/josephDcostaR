@@ -49,8 +49,4 @@ Sinta-se à vontade para entrar em contato comigo pelos links abaixo. ⤵️
   </a>
 </div>
 
-## ⚙️ Status no GitHub
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=josephDcostaR&show_icons=true&theme=vision-friendly-dark" alt="Estatísticas do GitHub do Joseph">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephDcostaR&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas pelo Joseph">
-</p>
+
