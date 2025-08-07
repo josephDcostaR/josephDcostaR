@@ -1,20 +1,19 @@
-# 🌍 Hi, I'm Joseph!  
+# 🌍 Hi, I'm Joseph!
 
-🌐 **Choose your language:**  
-[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)  
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
 <img src="https://komarev.com/ghpvc/?username=josephDcostaR&color=5271FF&style=for-the-badge&label=you're+visitor+nº" width=120px align="right">
 
 ## 🚀 About Me  
-I'm from Brazil, and I'm a **software developer** passionate about building innovative solutions.  
-I started learning software development in **October 2020**, when I decided to pursue a career in technology.
+Brazilian **software developer**, passionate about tech and game development.  
+Started my journey in **October 2020** and currently pursuing a degree in **Information Systems**.
 
-### 🎯 My Goals  
-- 📚 **Education:** Bachelor's degree in **Information Systems** from **Centro Universitário Santa Terezinha - CEST**.  
-- 🎮 **Interests:** I enjoy **developing games** and studying their mechanics.  
-- 💡 **Career:** Seeking a **developer position** to gain experience, learn new workflows, and explore new technologies.  
+### 🎯 Goals  
+- 👨‍🎓 Info Systems @ **CEST**  
+- 🎮 Game mechanics enthusiast  
+- 👨‍💻 Looking for dev opportunities to grow
 
-Feel free to reach out using the links below! ⤵️  
+Let's connect! ⤵️
 
 ---
 
