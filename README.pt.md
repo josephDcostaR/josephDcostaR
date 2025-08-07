@@ -30,23 +30,26 @@ Sinta-se à vontade para entrar em contato comigo pelos links abaixo. ⤵️
   </a>
 </div>
 
-## Linguagens e ferramentas:
+---
+
+## 🛠️ Linguagens & Ferramentas  
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,nodejs,php,dart,mysql,postgresql,sqlite,firebase,git &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,html,css,js,mysql,postgresql,sqlite,git&theme=dark" />
   </a>
 </div>
 <div align="center">
- <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=figma,eclipse,idea,vscode,wordpress,discord,c,atom,bootstrap,net,spring,postman &theme=dark" />
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=figma,eclipse,idea,vscode,wordpress,net,spring,postman&theme=dark" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,linux,windows,notion,raspberrypi&theme=dark" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,linux,windows,notion,raspberrypi &theme=dark" />
-  </a>
-</div>
+---
 
 
