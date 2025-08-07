@@ -52,9 +52,3 @@ Feel free to reach out using the links below! ⤵️
 </div>
 
 ---
-
-## ⚙️ GitHub Stats  
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=josephDcostaR&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephDcostaR&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-</p>
