@@ -44,10 +44,5 @@ Let's connect! ⤵️
     <img src="https://skillicons.dev/icons?i=figma,eclipse,idea,vscode,wordpress,net,spring,postman&theme=dark" />
   </a>
 </div>
-<div align="center">
-  <a href="https://skillicons.dev">  
-    <img src="https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,linux,windows,notion,raspberrypi&theme=dark" />
-  </a>
-</div>
 
 ---
